@@ -50,9 +50,9 @@ Investigate and explain this phenomenon.
       \column{\dimexpr.65\textwidth}
 		\begin{itemize}
 			\item
-			helical spring often made of metal
+			Helical spring often made of metal
 			\item
-			highly dispersive
+			Highly dispersive
 			\item
 			Tapping it produces a short signal consisting of multiple frequencies
 			\item
@@ -68,8 +68,10 @@ Investigate and explain this phenomenon.
 	
 \section {Experimental setup}
 	\begin{frame}{Experimental setup}
-		\includegraphics [scale=0.13]{images/setup_0.jpg}
-		\includegraphics [scale=0.13]{images/setup_1.jpg}
+	\begin{center}
+		\includegraphics [scale=0.22]{images/better_setup_1.jpg}
+		%\includegraphics [scale=0.13]{images/setup_1.jpg}
+	\end{center}
 	\end{frame}
 
 
@@ -84,14 +86,15 @@ Investigate and explain this phenomenon.
 	
 	\begin{frame}{Response curve plastic}
 		\begin{center}
-			
+			\includegraphics [scale=0.68]{images/plastic.png}
+			\includegraphics [scale=0.68]{images/plastic_echo.png}
 		\end{center}
 	\end{frame}
 
 \section {Theory}
 	\begin{frame}{Formulas}
 		
-		Euler-Bernulli ideal bar equation\footnote{ \tiny{ Parker, Julian, et al. 'Modeling methods for the highly dispersive slinky spring: a
+		Euler-Bernoulli ideal bar equation\footnote{ \tiny{ Parker, Julian, et al. 'Modeling methods for the highly dispersive slinky spring: a
 novel musical toy.' Proceedings of the 13th International Conference on Digital
 Audio Effects 2010.}}:
 		\begin{equation}
@@ -115,14 +118,14 @@ Audio Effects 2010.}}:
 	\end{frame}
 
 	\begin{frame}{Fit parameter $\kappa$}
-	$\kappa$ determines how how spread out the frequencies are. It is dependent on material properties, such as:
+	$\kappa$ determines how widely spread the frequencies are.\\ It is dependent on material properties, such as:
 		\begin{itemize}
 		\item
 		Density
 		\item
 		E-Modulus
-		\item
-		Poisson's ratio
+		%\item
+		%Poisson's ratio
 		\item
 		Length			
 		\end{itemize}
@@ -133,15 +136,21 @@ Audio Effects 2010.}}:
 	\begin{frame}{Data processing}
 	\begin{center}
 	
-		\includegraphics [scale=0.45]{images/axies.png}
-		\includegraphics [scale=0.26]{images/converted_csv.png}
+		\includegraphics [scale=0.47]{images/axies.png}
+		\includegraphics [scale=0.25]{images/converted_csv.png}
 	\end{center}
 
 	\end{frame}
 
 	\begin{frame}{Fitted function}
-		\includegraphics [scale=0.4]{images/fitted_function.png}
+		\includegraphics [scale=0.38]{images/legend_and_errors.png}
 		
+	\end{frame}
+	
+	\begin{frame}{Direct comparison}
+		\begin{center}
+			\includegraphics [scale=0.58]{images/comparison.png}
+		\end{center}		
 	\end{frame}
 
 
