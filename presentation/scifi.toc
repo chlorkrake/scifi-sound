@@ -3,4 +3,4 @@
 \beamer@sectionintoc {3}{Experimental results}{8}{0}{3}
 \beamer@sectionintoc {4}{Theory}{11}{0}{4}
 \beamer@sectionintoc {5}{Theory-Experiment Comparison}{14}{0}{5}
-\beamer@sectionintoc {6}{Outlook}{18}{0}{6}
+\beamer@sectionintoc {6}{Conclusion}{18}{0}{6}

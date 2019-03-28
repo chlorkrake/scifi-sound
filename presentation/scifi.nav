@@ -49,11 +49,15 @@
 \headcommand {\beamer@framepages {17}{17}}
 \headcommand {\beamer@sectionpages {14}{17}}
 \headcommand {\beamer@subsectionpages {14}{17}}
-\headcommand {\sectionentry {6}{Outlook}{18}{Outlook}{0}}
+\headcommand {\sectionentry {6}{Conclusion}{18}{Conclusion}{0}}
 \headcommand {\slideentry {6}{0}{1}{18/18}{}{0}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\beamer@partpages {1}{18}}
-\headcommand {\beamer@subsectionpages {18}{18}}
-\headcommand {\beamer@sectionpages {18}{18}}
-\headcommand {\beamer@documentpages {18}}
-\headcommand {\gdef \inserttotalframenumber {11}}
+\headcommand {\slideentry {6}{0}{2}{19/19}{}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {6}{0}{3}{20/20}{}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\beamer@partpages {1}{20}}
+\headcommand {\beamer@subsectionpages {18}{20}}
+\headcommand {\beamer@sectionpages {18}{20}}
+\headcommand {\beamer@documentpages {20}}
+\headcommand {\gdef \inserttotalframenumber {13}}
