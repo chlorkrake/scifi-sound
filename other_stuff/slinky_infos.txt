@@ -1,0 +1,7 @@
+Metal 1: d= 6,6cm 84 windungen
+metal 2: d= 
+metal 3: d=6,2cm 86 windungen
+metal 4:
+metal 5: d= 7,8cm 122 windungen
+metal 6: d= 6,5cm 86 windungen
+
